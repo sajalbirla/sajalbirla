@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate MERN Stack Developer with a keep interest in building robust and scalable websites. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
+<p align="left">I'm a passionate Software Engineer with 4 years of experience building modern web applications & AI-powered systems, including RAG pipelines, LLM integrations, & multi-agent architectures. Experienced with JavaScript, Node.js, FastAPI, LangChain & LangGraph, specializing in embedding-based retrieval & intelligent automation. Adept at developing scalable, high-performance solutions that enhance user experience and drive business value.</p>
 
 ###
 
