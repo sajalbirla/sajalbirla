@@ -29,8 +29,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
