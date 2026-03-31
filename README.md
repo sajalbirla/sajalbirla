@@ -15,6 +15,8 @@
 ###
 
 <div align="left">
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -32,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
 </div>
 
 ###
