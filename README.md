@@ -19,6 +19,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="javascript logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=appwrite" height="45" alt="appwrite logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
