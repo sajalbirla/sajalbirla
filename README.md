@@ -1,71 +1,56 @@
-<h1 align="left">Hi, I'm Sajal Birla</h1>
+<div align="center">
 
-###
+# Hi, I'm Sajal Birla
 
-<h3 align="left">About me:</h3>
+### Software Engineer · Full-stack Web · Applied AI
 
-###
+Building modern web applications and AI-powered systems with 4+ years of experience.
 
-<p align="left">I'm a passionate Software Engineer with 4 years of experience building modern web applications & AI-powered systems, including RAG pipelines, LLM integrations, & multi-agent architectures. Experienced with JavaScript, Node.js, FastAPI, LangChain & LangGraph, specializing in embedding-based retrieval & intelligent automation. Adept at developing scalable, high-performance solutions that enhance user experience and drive business value.</p>
+[Explore my portfolio](https://sajalbirla.github.io/sajal-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/sajalbirla/)
 
-###
-
-<h3 align="left">Tech stack:</h3>
-
-###
-
-<div align="left">
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="45" alt="appwrite logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Featured Work:</h3>
+## About me
 
-###
+I build web applications and AI-powered systems, from responsive interfaces and backend APIs to RAG pipelines and LLM integrations. My work combines full-stack engineering with embedding-based retrieval, multi-agent architectures, and intelligent automation.
 
-<h3 align="left">What I do:</h3>
+I focus on clean, modular code, maintainable systems, and thoughtful user experiences.
 
-###
+## What I build
 
-<p align="left">🖥️ Create full-stack websites using Next.js, MongoDB, Express.js, React, and Node.js.<br>🧹 Focus on writing clean, modular, and maintainable code.<br>🚀 Transform complex problems into elegant solutions.</p>
+| Full-stack applications | AI-powered systems |
+| --- | --- |
+| Web interfaces with React and Next.js | RAG pipelines and embedding-based retrieval |
+| APIs and services with Node.js, Express, and FastAPI | LLM integrations with LangChain and LangGraph |
+| Data-backed applications with MongoDB | Multi-agent workflows and intelligent automation |
 
-###
+## Tech stack
 
-<h2 align="left">Let's Connect:</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,aws,appwrite,vercel&perline=5" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, AWS, Appwrite, and Vercel" />
+</p>
 
-###
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript |
+| Frontend | React, Next.js |
+| Backend & data | Node.js, Express, FastAPI, MongoDB |
+| AI & orchestration | LangChain, LangGraph, LLM integrations, RAG |
+| Cloud & platforms | AWS, Appwrite, Vercel |
 
-<br clear="both">
+## Featured work
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sajalbirla/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### [Personal portfolio](https://sajalbirla.github.io/sajal-portfolio/)
 
-<div>
-   <a href="https://sajalbirla.github.io/sajal-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&logoColor=red&labelColor=&style=for-the-badge" height="50" alt="Portfolio"  />
-  </a>
-</div>
+A React portfolio showcasing my work and background, with Google Analytics 4 event tracking and deployment through GitHub Actions and GitHub Pages.
 
-###
+[Visit the live site](https://sajalbirla.github.io/sajal-portfolio/) · [Explore the code](https://github.com/sajalbirla/sajal-portfolio)
+
+## Let's connect
+
+Interested in full-stack development, applied AI, or intelligent automation? Let's connect.
+
+- **LinkedIn:** [Sajal Birla](https://www.linkedin.com/in/sajalbirla/)
+- **Portfolio:** [sajalbirla.github.io/sajal-portfolio](https://sajalbirla.github.io/sajal-portfolio/)
