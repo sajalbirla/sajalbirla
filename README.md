@@ -6,7 +6,7 @@
 
 Building modern web applications and AI-powered systems with 4+ years of experience.
 
-[Explore my portfolio](https://sajalbirla.github.io/sajal-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/sajalbirla/)
+[🌐 Explore my portfolio](https://sajalbirla.github.io/sajal-portfolio/) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/sajalbirla/)
 
 </div>
 
