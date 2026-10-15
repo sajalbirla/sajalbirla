@@ -42,15 +42,4 @@ I focus on clean, modular code, maintainable systems, and thoughtful user experi
 
 ## Featured work
 
-### [Personal portfolio](https://sajalbirla.github.io/sajal-portfolio/)
-
-A React portfolio showcasing my work and background, with Google Analytics 4 event tracking and deployment through GitHub Actions and GitHub Pages.
-
-[Visit the live site](https://sajalbirla.github.io/sajal-portfolio/) · [Explore the code](https://github.com/sajalbirla/sajal-portfolio)
-
-## Let's connect
-
-Interested in full-stack development, applied AI, or intelligent automation? Let's connect.
-
-- **LinkedIn:** [Sajal Birla](https://www.linkedin.com/in/sajalbirla/)
-- **Portfolio:** [sajalbirla.github.io/sajal-portfolio](https://sajalbirla.github.io/sajal-portfolio/)
+**Personal portfolio** — A React site showcasing my work and background, deployed with GitHub Actions and GitHub Pages. [View source](https://github.com/sajalbirla/sajal-portfolio).
